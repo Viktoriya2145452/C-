@@ -1,0 +1,15 @@
+C:\Users\Ивлева\Desktop\С#2\hw15\bin\Debug\net6.0\hw15.exe
+C:\Users\Ивлева\Desktop\С#2\hw15\bin\Debug\net6.0\hw15.deps.json
+C:\Users\Ивлева\Desktop\С#2\hw15\bin\Debug\net6.0\hw15.runtimeconfig.json
+C:\Users\Ивлева\Desktop\С#2\hw15\bin\Debug\net6.0\hw15.dll
+C:\Users\Ивлева\Desktop\С#2\hw15\bin\Debug\net6.0\hw15.pdb
+C:\Users\Ивлева\Desktop\С#2\hw15\obj\Debug\net6.0\hw15.csproj.AssemblyReference.cache
+C:\Users\Ивлева\Desktop\С#2\hw15\obj\Debug\net6.0\hw15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ивлева\Desktop\С#2\hw15\obj\Debug\net6.0\hw15.AssemblyInfoInputs.cache
+C:\Users\Ивлева\Desktop\С#2\hw15\obj\Debug\net6.0\hw15.AssemblyInfo.cs
+C:\Users\Ивлева\Desktop\С#2\hw15\obj\Debug\net6.0\hw15.csproj.CoreCompileInputs.cache
+C:\Users\Ивлева\Desktop\С#2\hw15\obj\Debug\net6.0\hw15.dll
+C:\Users\Ивлева\Desktop\С#2\hw15\obj\Debug\net6.0\refint\hw15.dll
+C:\Users\Ивлева\Desktop\С#2\hw15\obj\Debug\net6.0\hw15.pdb
+C:\Users\Ивлева\Desktop\С#2\hw15\obj\Debug\net6.0\hw15.genruntimeconfig.cache
+C:\Users\Ивлева\Desktop\С#2\hw15\obj\Debug\net6.0\ref\hw15.dll
