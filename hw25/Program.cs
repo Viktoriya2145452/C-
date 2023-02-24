@@ -64,3 +64,4 @@ Console.WriteLine($"{Math.Pow(numberA,numberB)}");
 
 // result * result = a;
 // a + " в степени " + b + " = " + result), 2
+
