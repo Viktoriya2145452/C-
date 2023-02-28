@@ -1,0 +1,15 @@
+C:\Users\Ивлева\Desktop\С#2\task26\bin\Debug\net6.0\task26.exe
+C:\Users\Ивлева\Desktop\С#2\task26\bin\Debug\net6.0\task26.deps.json
+C:\Users\Ивлева\Desktop\С#2\task26\bin\Debug\net6.0\task26.runtimeconfig.json
+C:\Users\Ивлева\Desktop\С#2\task26\bin\Debug\net6.0\task26.dll
+C:\Users\Ивлева\Desktop\С#2\task26\bin\Debug\net6.0\task26.pdb
+C:\Users\Ивлева\Desktop\С#2\task26\obj\Debug\net6.0\task26.csproj.AssemblyReference.cache
+C:\Users\Ивлева\Desktop\С#2\task26\obj\Debug\net6.0\task26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ивлева\Desktop\С#2\task26\obj\Debug\net6.0\task26.AssemblyInfoInputs.cache
+C:\Users\Ивлева\Desktop\С#2\task26\obj\Debug\net6.0\task26.AssemblyInfo.cs
+C:\Users\Ивлева\Desktop\С#2\task26\obj\Debug\net6.0\task26.csproj.CoreCompileInputs.cache
+C:\Users\Ивлева\Desktop\С#2\task26\obj\Debug\net6.0\task26.dll
+C:\Users\Ивлева\Desktop\С#2\task26\obj\Debug\net6.0\refint\task26.dll
+C:\Users\Ивлева\Desktop\С#2\task26\obj\Debug\net6.0\task26.pdb
+C:\Users\Ивлева\Desktop\С#2\task26\obj\Debug\net6.0\task26.genruntimeconfig.cache
+C:\Users\Ивлева\Desktop\С#2\task26\obj\Debug\net6.0\ref\task26.dll
